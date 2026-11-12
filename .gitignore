@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+calib_base.json
+color.json
+mount.json
+.DS_Store
